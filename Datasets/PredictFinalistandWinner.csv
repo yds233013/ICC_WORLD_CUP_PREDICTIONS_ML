@@ -1,0 +1,497 @@
+Team 1,Team 2,Format,Date,Venue,Result,Status,Venue_Country
+England,India,ODI,"Jun 07, 1975",Lord's,England,Completed,England
+New Zealand,East Africa,ODI,"Jun 07, 1975",Birmingham,New Zealand,Completed,England
+Australia,Pakistan,ODI,"Jun 07, 1975",Leeds,Australia,Completed,England
+Sri Lanka,West Indies,ODI,"Jun 07, 1975",Manchester,West Indies,Completed,England
+England,New Zealand,ODI,"Jun 11, 1975",Nottingham,England,Completed,England
+East Africa,India,ODI,"Jun 11, 1975",Leeds,India,Completed,England
+Australia,Sri Lanka,ODI,"Jun 11, 1975",The Oval,Australia,Completed,England
+Pakistan,West Indies,ODI,"Jun 11, 1975",Birmingham,West Indies,Completed,England
+England,East Africa,ODI,"Jun 14, 1975",Birmingham,England,Completed,England
+India,New Zealand,ODI,"Jun 14, 1975",Manchester,New Zealand,Completed,England
+Australia,West Indies,ODI,"Jun 14, 1975",The Oval,West Indies,Completed,England
+Pakistan,Sri Lanka,ODI,"Jun 14, 1975",Nottingham,Pakistan,Completed,England
+England,Australia,ODI,"Jun 18, 1975",Leeds,Australia,Completed,England
+New Zealand,West Indies,ODI,"Jun 18, 1975",The Oval,West Indies,Completed,England
+West Indies,Australia,ODI,"Jun 21, 1975",Lord's,West Indies,Completed,England
+India,West Indies,ODI,"Jun 09, 1979",Birmingham,West Indies,Completed,England
+Sri Lanka,New Zealand,ODI,"Jun 09, 1979",Nottingham,New Zealand,Completed,England
+Australia,England,ODI,"Jun 09, 1979",Lord's,England,Completed,England
+Canada,Pakistan,ODI,"Jun 09, 1979",Leeds,Pakistan,Completed,England
+Sri Lanka,West Indies,ODI,"Jun 13, 1979",The Oval,ABANDONED,Completed,England
+India,New Zealand,ODI,"Jun 13, 1979",Leeds,New Zealand,Completed,England
+Pakistan,Australia,ODI,"Jun 13, 1979",Nottingham,Pakistan,Completed,England
+Canada,England,ODI,"Jun 13, 1979",Manchester,England,Completed,England
+Sri Lanka,India,ODI,"Jun 16, 1979",Manchester,Sri Lanka,Completed,England
+West Indies,New Zealand,ODI,"Jun 16, 1979",Nottingham,West Indies,Completed,England
+Canada,Australia,ODI,"Jun 16, 1979",Birmingham,Australia,Completed,England
+England,Pakistan,ODI,"Jun 16, 1979",Leeds,England,Completed,England
+England,New Zealand,ODI,"Jun 20, 1979",Manchester,England,Completed,England
+West Indies,Pakistan,ODI,"Jun 20, 1979",The Oval,West Indies,Completed,England
+West Indies,England,ODI,"Jun 23, 1979",Lord's,West Indies,Completed,England
+England,New Zealand,ODI,"Jun 09, 1983",The Oval,England,Completed,England
+Pakistan,Sri Lanka,ODI,"Jun 09, 1983",Swansea,Pakistan,Completed,England
+Zimbabwe,Australia,ODI,"Jun 09, 1983",Nottingham,Zimbabwe,Completed,England
+India,West Indies,ODI,"Jun 09, 1983",Manchester,India,Completed,England
+England,Sri Lanka,ODI,"Jun 11, 1983",Taunton,England,Completed,England
+New Zealand,Pakistan,ODI,"Jun 11, 1983",Birmingham,New Zealand,Completed,England
+West Indies,Australia,ODI,"Jun 11, 1983",Leeds,West Indies,Completed,England
+Zimbabwe,India,ODI,"Jun 11, 1983",Leicester,India,Completed,England
+Pakistan,England,ODI,"Jun 13, 1983",Lord's,England,Completed,England
+Sri Lanka,New Zealand,ODI,"Jun 13, 1983",Bristol,New Zealand,Completed,England
+Australia,India,ODI,"Jun 13, 1983",Nottingham,Australia,Completed,England
+Zimbabwe,West Indies,ODI,"Jun 13, 1983",Worcester,West Indies,Completed,England
+England,New Zealand,ODI,"Jun 15, 1983",Birmingham,New Zealand,Completed,England
+West Indies,India,ODI,"Jun 15, 1983",The Oval,West Indies,Completed,England
+Pakistan,Sri Lanka,ODI,"Jun 16, 1983",Leeds,Pakistan,Completed,England
+Australia,Zimbabwe,ODI,"Jun 16, 1983",Southampton,Australia,Completed,England
+Pakistan,England,ODI,"Jun 18, 1983",Manchester,England,Completed,England
+New Zealand,Sri Lanka,ODI,"Jun 18, 1983",Derby,Sri Lanka,Completed,England
+Australia,West Indies,ODI,"Jun 18, 1983",Lord's,West Indies,Completed,England
+India,Zimbabwe,ODI,"Jun 18, 1983",Tunbridge Wells,India,Completed,England
+Sri Lanka,England,ODI,"Jun 20, 1983",Leeds,England,Completed,England
+Pakistan,New Zealand,ODI,"Jun 20, 1983",Nottingham,Pakistan,Completed,England
+India,Australia,ODI,"Jun 20, 1983",Chelmsford,India,Completed,England
+Zimbabwe,West Indies,ODI,"Jun 20, 1983",Birmingham,West Indies,Completed,England
+England,India,ODI,"Jun 22, 1983",Manchester,India,Completed,England
+Pakistan,West Indies,ODI,"Jun 22, 1983",The Oval,West Indies,Completed,England
+India,West Indies,ODI,"Jun 25, 1983",Lord's,India,Completed,England
+Pakistan,Sri Lanka,ODI,"Oct 08, 1987",Hyderabad (Sind),Pakistan,Completed,India
+Australia,India,ODI,"Oct 09, 1987",Chennai,Australia,Completed,India
+West Indies,England,ODI,"Oct 09, 1987",Gujranwala,England,Completed,Pakistan
+New Zealand,Zimbabwe,ODI,"Oct 10, 1987",Hyderabad (Deccan),New Zealand,Completed,India
+Pakistan,England,ODI,"Oct 12, 1987",Rawalpindi,Pakistan,Completed,Pakistan
+Australia,Zimbabwe,ODI,"Oct 13, 1987",Chennai,Australia,Completed,India
+West Indies,Sri Lanka,ODI,"Oct 13, 1987",Karachi,West Indies,Completed,Pakistan
+India,New Zealand,ODI,"Oct 14, 1987",Bengaluru,India,Completed,India
+West Indies,Pakistan,ODI,"Oct 16, 1987",Lahore,Pakistan,Completed,Pakistan
+Zimbabwe,India,ODI,"Oct 17, 1987",Mumbai,India,Completed,India
+England,Sri Lanka,ODI,"Oct 17, 1987",Peshawar,England,Completed,Pakistan
+Australia,New Zealand,ODI,"Oct 18, 1987",Indore,Australia,Completed,India
+England,Pakistan,ODI,"Oct 20, 1987",Karachi,Pakistan,Completed,Pakistan
+West Indies,Sri Lanka,ODI,"Oct 21, 1987",Kanpur,West Indies,Completed,India
+India,Australia,ODI,"Oct 22, 1987",Delhi,India,Completed,India
+Zimbabwe,New Zealand,ODI,"Oct 23, 1987",Kolkata,New Zealand,Completed,India
+Pakistan,Sri Lanka,ODI,"Oct 25, 1987",Faisalabad,Pakistan,Completed,Pakistan
+England,West Indies,ODI,"Oct 26, 1987",Jaipur,England,Completed,India
+Zimbabwe,India,ODI,"Oct 26, 1987",Ahmedabad,India,Completed,India
+Australia,New Zealand,ODI,"Oct 27, 1987",Chandigarh,Australia,Completed,India
+Australia,Zimbabwe,ODI,"Oct 30, 1987",Cuttack,Australia,Completed,Pakistan
+Sri Lanka,England,ODI,"Oct 30, 1987",Pune,England,Completed,India
+West Indies,Pakistan,ODI,"Oct 30, 1987",Karachi,West Indies,Completed,Pakistan
+New Zealand,India,ODI,"Oct 31, 1987",Nagpur,India,Completed,India
+Australia,Pakistan,ODI,"Nov 04, 1987",Lahore,Australia,Completed,Pakistan
+England,India,ODI,"Nov 05, 1987",Mumbai,England,Completed,India
+Australia,England,ODI,"Nov 08, 1987",Kolkata,Australia,Completed,India
+New Zealand,Australia,ODI,"Feb 22, 1992",Auckland,New Zealand,Completed,New Zealand
+England,India,ODI,"Feb 22, 1992",Perth,England,Completed,Australia
+Zimbabwe,Sri Lanka,ODI,"Feb 23, 1992",New Plymouth,Sri Lanka,Completed,New Zealand
+Pakistan,West Indies,ODI,"Feb 23, 1992",Melbourne,West Indies,Completed,Australia
+Sri Lanka,New Zealand,ODI,"Feb 25, 1992",Hamilton,New Zealand,Completed,New Zealand
+Australia,South Africa,ODI,"Feb 26, 1992",Sydney,South Africa,Completed,Australia
+Pakistan,Zimbabwe,ODI,"Feb 27, 1992",Hobart,Pakistan,Completed,Australia
+West Indies,England,ODI,"Feb 27, 1992",Melbourne,England,Completed,Australia
+India,Sri Lanka,ODI,"Feb 28, 1992",Mackay,NR,Completed,Australia
+South Africa,New Zealand,ODI,"Feb 29, 1992",Auckland,New Zealand,Completed,New Zealand
+West Indies,Zimbabwe,ODI,"Feb 29, 1992",Brisbane,West Indies,Completed,Australia
+Australia,India,ODI,"Mar 01, 1992",Brisbane,Australia,Completed,Australia
+Pakistan,England,ODI,"Mar 01, 1992",Adelaide,NR,Completed,Australia
+South Africa,Sri Lanka,ODI,"Mar 02, 1992",Wellington,Sri Lanka,Completed,New Zealand
+New Zealand,Zimbabwe,ODI,"Mar 03, 1992",Napier,New Zealand,Completed,New Zealand
+India,Pakistan,ODI,"Mar 04, 1992",Sydney,India,Completed,Australia
+South Africa,West Indies,ODI,"Mar 05, 1992",Christchurch,South Africa,Completed,New Zealand
+Australia,England,ODI,"Mar 05, 1992",Sydney,England,Completed,Australia
+India,Zimbabwe,ODI,"Mar 07, 1992",Hamilton,India,Completed,New Zealand
+Sri Lanka,Australia,ODI,"Mar 07, 1992",Adelaide,Australia,Completed,Australia
+West Indies,New Zealand,ODI,"Mar 08, 1992",Auckland,New Zealand,Completed,New Zealand
+South Africa,Pakistan,ODI,"Mar 08, 1992",Brisbane,South Africa,Completed,Australia
+England,Sri Lanka,ODI,"Mar 09, 1992",Ballarat,England,Completed,Australia
+India,West Indies,ODI,"Mar 10, 1992",Wellington,West Indies,Completed,New Zealand
+Zimbabwe,South Africa,ODI,"Mar 10, 1992",Canberra,South Africa,Completed,Australia
+Pakistan,Australia,ODI,"Mar 11, 1992",Perth,Pakistan,Completed,Australia
+India,New Zealand,ODI,"Mar 12, 1992",Dunedin,New Zealand,Completed,New Zealand
+South Africa,England,ODI,"Mar 12, 1992",Melbourne,England,Completed,Australia
+West Indies,Sri Lanka,ODI,"Mar 13, 1992",Berri,West Indies,Completed,Australia
+Australia,Zimbabwe,ODI,"Mar 14, 1992",Hobart,Australia,Completed,Australia
+England,New Zealand,ODI,"Mar 15, 1992",Wellington,New Zealand,Completed,New Zealand
+India,South Africa,ODI,"Mar 15, 1992",Adelaide,South Africa,Completed,Australia
+Sri Lanka,Pakistan,ODI,"Mar 15, 1992",Perth,Pakistan,Completed,Australia
+New Zealand,Pakistan,ODI,"Mar 18, 1992",Christchurch,Pakistan,Completed,New Zealand
+Zimbabwe,England,ODI,"Mar 18, 1992",Albury,Zimbabwe,Completed,Australia
+Australia,West Indies,ODI,"Mar 18, 1992",Melbourne,Australia,Completed,Australia
+New Zealand,Pakistan,ODI,"Mar 21, 1992",Auckland,Pakistan,Completed,New Zealand
+England,South Africa,ODI,"Mar 22, 1992",Sydney,England,Completed,Australia
+Pakistan,England,ODI,"Mar 25, 1992",Melbourne,Pakistan,Completed,Australia
+New Zealand,England,ODI,"Feb 14, 1996",Ahmedabad,New Zealand,Completed,India
+South Africa,United Arab Emirates,ODI,"Feb 16, 1996",Rawalpindi,South Africa,Completed,Pakistan
+Zimbabwe,West Indies,ODI,"Feb 16, 1996",Hyderabad (Deccan),West Indies,Completed,India
+New Zealand,Netherlands,ODI,"Feb 17, 1996",Vadodara,New Zealand,Completed,India
+Sri Lanka,Australia,ODI,"Feb 17, 1996",Colombo (RPS),Sri Lanka,Completed,Sri Lanka
+Kenya,India,ODI,"Feb 18, 1996",Cuttack,India,Completed,India
+United Arab Emirates,England,ODI,"Feb 18, 1996",Peshawar,England,Completed,Pakistan
+New Zealand,South Africa,ODI,"Feb 20, 1996",Faisalabad,South Africa,Completed,Pakistan
+Zimbabwe,Sri Lanka,ODI,"Feb 21, 1996",Colombo (SSC),Sri Lanka,Completed,Sri Lanka
+West Indies,India,ODI,"Feb 21, 1996",Gwalior,India,Completed,India
+England,Netherlands,ODI,"Feb 22, 1996",Peshawar,England,Completed,Pakistan
+Australia,Kenya,ODI,"Feb 23, 1996",Visakhapatnam,Australia,Completed,India
+United Arab Emirates,Pakistan,ODI,"Feb 24, 1996",Gujranwala,Pakistan,Completed,Pakistan
+Sri Lanka,West Indies,ODI,"Feb 25, 1996",Colombo (RPS),Sri Lanka,Completed,Sri Lanka
+South Africa,England,ODI,"Feb 25, 1996",Rawalpindi,South Africa,Completed,Pakistan
+Zimbabwe,Kenya,ODI,"Feb 26, 1996",Patna,NR,Completed,India
+Netherlands,Pakistan,ODI,"Feb 26, 1996",Lahore,Pakistan,Completed,Pakistan
+Kenya,Zimbabwe,ODI,"Feb 27, 1996",Patna,Zimbabwe,Completed,India
+New Zealand,United Arab Emirates,ODI,"Feb 27, 1996",Faisalabad,New Zealand,Completed,Pakistan
+Australia,India,ODI,"Feb 27, 1996",Mumbai,Australia,Completed,India
+Kenya,West Indies,ODI,"Feb 29, 1996",Pune,Kenya,Completed,India
+Pakistan,South Africa,ODI,"Feb 29, 1996",Karachi,South Africa,Completed,Pakistan
+Zimbabwe,Australia,ODI,"Mar 01, 1996",Nagpur,Australia,Completed,India
+Netherlands,United Arab Emirates,ODI,"Mar 01, 1996",Lahore,United Arab Emirates,Completed,Pakistan
+India,Sri Lanka,ODI,"Mar 02, 1996",Delhi,Sri Lanka,Completed,India
+England,Pakistan,ODI,"Mar 03, 1996",Karachi,Pakistan,Completed,Pakistan
+Australia,West Indies,ODI,"Mar 04, 1996",Jaipur,West Indies,Completed,India
+South Africa,Netherlands,ODI,"Mar 05, 1996",Rawalpindi,South Africa,Completed,Pakistan
+India,Zimbabwe,ODI,"Mar 06, 1996",Kanpur,India,Completed,India
+Sri Lanka,Kenya,ODI,"Mar 06, 1996",Kandy,Sri Lanka,Completed,Sri Lanka
+Pakistan,New Zealand,ODI,"Mar 06, 1996",Lahore,Pakistan,Completed,India
+England,Sri Lanka,ODI,"Mar 09, 1996",Faisalabad,Sri Lanka,Completed,Pakistan
+India,Pakistan,ODI,"Mar 09, 1996",Bengaluru,India,Completed,India
+West Indies,South Africa,ODI,"Mar 11, 1996",Karachi,West Indies,Completed,Pakistan
+New Zealand,Australia,ODI,"Mar 11, 1996",Chennai,Australia,Completed,India
+Sri Lanka,India,ODI,"Mar 13, 1996",Kolkata,Sri Lanka,Completed,India
+Australia,West Indies,ODI,"Mar 14, 1996",Mohali,Australia,Completed,Pakistan
+Australia,Sri Lanka,ODI,"Mar 17, 1996",Lahore,Sri Lanka,Completed,Pakistan
+Sri Lanka,England,ODI,"May 14, 1999",Lord's,England,Completed,England
+India,South Africa,ODI,"May 15, 1999",Brighton,South Africa,Completed,England
+Kenya,Zimbabwe,ODI,"May 15, 1999",Taunton,Zimbabwe,Completed,England
+Scotland,Australia,ODI,"May 16, 1999",Worcester,Australia,Completed,England
+Pakistan,Pakistan,ODI,"May 16, 1999",Bristol,Pakistan,Completed,England
+Bangladesh,New Zealand,ODI,"May 17, 1999",Chelmsford,New Zealand,Completed,England
+Kenya,England,ODI,"May 18, 1999",Canterbury,England,Completed,England
+Zimbabwe,Zimbabwe,ODI,"May 19, 1999",Leicester,Zimbabwe,Completed,England
+South Africa,South Africa,ODI,"May 19, 1999",Northampton,South Africa,Completed,England
+Australia,New Zealand,ODI,"May 20, 1999",Cardiff,New Zealand,Completed,England
+Pakistan,Pakistan,ODI,"May 20, 1999",Chester,Pakistan,Completed,England
+Bangladesh,West Indies,ODI,"May 21, 1999",Dublin,West Indies,Completed,Ireland
+South Africa,South Africa,ODI,"May 22, 1999",The Oval,South Africa,Completed,England
+Zimbabwe,Sri Lanka,ODI,"May 22, 1999",Worcester,Sri Lanka,Completed,England
+India,India,ODI,"May 23, 1999",Bristol,India,Completed,England
+Pakistan,Pakistan,ODI,"May 23, 1999",Leeds,Pakistan,Completed,England
+Bangladesh,Bangladesh,ODI,"May 24, 1999",Edinburgh,Bangladesh,Completed,Scotland
+New Zealand,West Indies,ODI,"May 24, 1999",Southampton,West Indies,Completed,England
+Zimbabwe,England,ODI,"May 25, 1999",Nottingham,England,Completed,England
+Kenya,South Africa,ODI,"May 26, 1999",Amstelveen,South Africa,Completed,Netherlands
+India,India,ODI,"May 26, 1999",Taunton,India,Completed,England
+Bangladesh,Australia,ODI,"May 27, 1999",Chester,Australia,Completed,England
+Scotland,West Indies,ODI,"May 27, 1999",Leicester,West Indies,Completed,England
+Pakistan,Pakistan,ODI,"May 28, 1999",Derby,Pakistan,Completed,England
+India,India,ODI,"May 29, 1999",Birmingham,India,Completed,England
+Zimbabwe,Zimbabwe,ODI,"May 29, 1999",Chelmsford,Zimbabwe,Completed,England
+Sri Lanka,Sri Lanka,ODI,"May 30, 1999",Southampton,Sri Lanka,Completed,England
+West Indies,Australia,ODI,"May 30, 1999",Manchester,Australia,Completed,England
+Bangladesh,Bangladesh,ODI,"May 31, 1999",Northampton,Bangladesh,Completed,England
+Scotland,New Zealand,ODI,"May 31, 1999",Edinburgh,New Zealand,Completed,Scotland
+Australia,Australia,ODI,"Jun 04, 1999",The Oval,Australia,Completed,England
+Pakistan,South Africa,ODI,"Jun 05, 1999",Nottingham,South Africa,Completed,England
+Zimbabwe,NR,ODI,"Jun 06, 1999",Leeds,NR,Completed,England
+India,India,ODI,"Jun 08, 1999",Manchester,India,Completed,England
+Australia,Australia,ODI,"Jun 09, 1999",Lord's,Australia,Completed,England
+South Africa,South Africa,ODI,"Jun 10, 1999",Birmingham,South Africa,Completed,England
+Pakistan,Pakistan,ODI,"Jun 11, 1999",The Oval,Pakistan,Completed,England
+India,New Zealand,ODI,"Jun 12, 1999",Nottingham,New Zealand,Completed,England
+South Africa,Australia,ODI,"Jun 13, 1999",Leeds,Australia,Completed,England
+New Zealand,Pakistan,ODI,"Jun 16, 1999",Manchester,Pakistan,Completed,England
+Australia,TIE,ODI,"Jun 17, 1999",Birmingham,TIE,Completed,England
+Pakistan,Australia,ODI,"Jun 20, 1999",Lord's,Australia,Completed,England
+West Indies,South Africa,ODI,"Feb 09, 2003",Cape Town,West Indies,Completed,South Africa
+Zimbabwe,Namibia,ODI,"Feb 10, 2003",Harare,Zimbabwe,Completed,Zimbabwe
+Sri Lanka,New Zealand,ODI,"Feb 10, 2003",Bloemfontein,Sri Lanka,Completed,South Africa
+Australia,Pakistan,ODI,"Feb 11, 2003",Johannesburg,Australia,Completed,South Africa
+Canada,Bangladesh,ODI,"Feb 11, 2003",Durban,Canada,Completed,South Africa
+Kenya,South Africa,ODI,"Feb 12, 2003",Potchefstroom,South Africa,Completed,South Africa
+India,Netherlands,ODI,"Feb 12, 2003",Paarl,India,Completed,South Africa
+England,Zimbabwe,ODI,"Feb 13, 2003",Harare,CANCELED,Completed,Zimbabwe
+New Zealand,West Indies,ODI,"Feb 13, 2003",Port Elizabeth,New Zealand,Completed,South Africa
+Bangladesh,Sri Lanka,ODI,"Feb 14, 2003",Pietermaritzburg,Sri Lanka,Completed,South Africa
+India,Australia,ODI,"Feb 15, 2003",Centurion,Australia,Completed,South Africa
+Canada,Kenya,ODI,"Feb 15, 2003",Cape Town,Kenya,Completed,South Africa
+Netherlands,England,ODI,"Feb 16, 2003",East London,England,Completed,South Africa
+Pakistan,Namibia,ODI,"Feb 16, 2003",Kimberley,Pakistan,Completed,South Africa
+South Africa,New Zealand,ODI,"Feb 16, 2003",Johannesburg,New Zealand,Completed,South Africa
+West Indies,Bangladesh,ODI,"Feb 18, 2003",Benoni,NR,Completed,South Africa
+India,Zimbabwe,ODI,"Feb 19, 2003",Harare,India,Completed,Zimbabwe
+Canada,Sri Lanka,ODI,"Feb 19, 2003",Paarl,Sri Lanka,Completed,South Africa
+England,Namibia,ODI,"Feb 19, 2003",Port Elizabeth,England,Completed,South Africa
+Australia,Netherlands,ODI,"Feb 20, 2003",Potchefstroom,Australia,Completed,South Africa
+New Zealand,Kenya,ODI,"Feb 21, 2003",Nairobi (Gym),CANCELED,Completed,Kenya
+Bangladesh,South Africa,ODI,"Feb 22, 2003",Bloemfontein,South Africa,Completed,South Africa
+England,Pakistan,ODI,"Feb 22, 2003",Cape Town,England,Completed,South Africa
+Canada,West Indies,ODI,"Feb 23, 2003",Centurion,West Indies,Completed,South Africa
+India,Namibia,ODI,"Feb 23, 2003",Pietermaritzburg,India,Completed,Kenya
+Kenya,Sri Lanka,ODI,"Feb 24, 2003",Nairobi (Gym),Kenya,Completed,South Africa
+Zimbabwe,Australia,ODI,"Feb 24, 2003",Bulawayo,Australia,Completed,Zimbabwe
+Pakistan,Netherlands,ODI,"Feb 25, 2003",Paarl,Pakistan,Completed,South Africa
+Bangladesh,New Zealand,ODI,"Feb 26, 2003",Kimberley,New Zealand,Completed,South Africa
+India,England,ODI,"Feb 26, 2003",Durban,India,Completed,South Africa
+Australia,Namibia,ODI,"Feb 27, 2003",Potchefstroom,Australia,Completed,South Africa
+South Africa,Canada,ODI,"Feb 27, 2003",East London,South Africa,Completed,South Africa
+Zimbabwe,Netherlands,ODI,"Feb 28, 2003",Bulawayo,Zimbabwe,Completed,Zimbabwe
+Sri Lanka,West Indies,ODI,"Feb 28, 2003",Cape Town,Sri Lanka,Completed,South Africa
+Kenya,Bangladesh,ODI,"Mar 01, 2003",Johannesburg,Kenya,Completed,South Africa
+Pakistan,India,ODI,"Mar 01, 2003",Centurion,India,Completed,South Africa
+England,Australia,ODI,"Mar 02, 2003",Port Elizabeth,Australia,Completed,South Africa
+Canada,New Zealand,ODI,"Mar 03, 2003",Benoni,New Zealand,Completed,South Africa
+Netherlands,Namibia,ODI,"Mar 03, 2003",Bloemfontein,Netherlands,Completed,South Africa
+Sri Lanka,South Africa,ODI,"Mar 03, 2003",Durban,TIE,Completed,South Africa
+Pakistan,Zimbabwe,ODI,"Mar 04, 2003",Bulawayo,NR,Completed,Zimbabwe
+West Indies,Kenya,ODI,"Mar 04, 2003",Kimberley,West Indies,Completed,South Africa
+Australia,Sri Lanka,ODI,"Mar 07, 2003",Centurion,Australia,Completed,South Africa
+Kenya,India,ODI,"Mar 07, 2003",Cape Town,India,Completed,South Africa
+Zimbabwe,New Zealand,ODI,"Mar 08, 2003",Bloemfontein,New Zealand,Completed,South Africa
+India,Sri Lanka,ODI,"Mar 10, 2003",Johannesburg,India,Completed,South Africa
+Australia,New Zealand,ODI,"Mar 11, 2003",Port Elizabeth,Australia,Completed,South Africa
+Zimbabwe,Kenya,ODI,"Mar 12, 2003",Bloemfontein,Kenya,Completed,South Africa
+New Zealand,India,ODI,"Mar 14, 2003",Centurion,India,Completed,South Africa
+Sri Lanka,Zimbabwe,ODI,"Mar 15, 2003",East London,Sri Lanka,Completed,South Africa
+Kenya,Australia,ODI,"Mar 15, 2003",Durban,Australia,Completed,South Africa
+Australia,Sri Lanka,ODI,"Mar 18, 2003",Port Elizabeth,Australia,Completed,South Africa
+India,Kenya,ODI,"Mar 20, 2003",Durban,India,Completed,South Africa
+Australia,India,ODI,"Mar 23, 2003",Johannesburg,Australia,Completed,South Africa
+West Indies,Pakistan,ODI,"Mar 13, 2007",Kingston,West Indies,Completed,West_Indies
+Australia,Scotland,ODI,"Mar 14, 2007",Basseterre,Australia,Completed,West_Indies
+Canada,Kenya,ODI,"Mar 14, 2007",Gros Islet,Kenya,Completed,West_Indies
+Sri Lanka,Bermuda,ODI,"Mar 15, 2007",Port of Spain,Sri Lanka,Completed,West_Indies
+Ireland,Zimbabwe,ODI,"Mar 15, 2007",Kingston,TIE,Completed,West_Indies
+England,New Zealand,ODI,"Mar 16, 2007",Gros Islet,New Zealand,Completed,West_Indies
+South Africa,Netherlands,ODI,"Mar 16, 2007",Basseterre,South Africa,Completed,West_Indies
+India,Bangladesh,ODI,"Mar 17, 2007",Port of Spain,Bangladesh,Completed,West_Indies
+Pakistan,Ireland,ODI,"Mar 17, 2007",Kingston,Ireland,Completed,West_Indies
+Australia,Netherlands,ODI,"Mar 18, 2007",Basseterre,Australia,Completed,West_Indies
+England,Canada,ODI,"Mar 18, 2007",Gros Islet,England,Completed,West_Indies
+India,Bermuda,ODI,"Mar 19, 2007",Port of Spain,India,Completed,West_Indies
+Zimbabwe,West Indies,ODI,"Mar 19, 2007",Kingston,West Indies,Completed,West_Indies
+New Zealand,Kenya,ODI,"Mar 20, 2007",Gros Islet,New Zealand,Completed,West_Indies
+Scotland,South Africa,ODI,"Mar 20, 2007",Basseterre,South Africa,Completed,West_Indies
+Sri Lanka,Bangladesh,ODI,"Mar 21, 2007",Port of Spain,Sri Lanka,Completed,West_Indies
+Pakistan,Zimbabwe,ODI,"Mar 21, 2007",Kingston,Pakistan,Completed,West_Indies
+New Zealand,Canada,ODI,"Mar 22, 2007",Gros Islet,New Zealand,Completed,West_Indies
+Scotland,Netherlands,ODI,"Mar 22, 2007",Basseterre,Netherlands,Completed,West_Indies
+Sri Lanka,India,ODI,"Mar 23, 2007",Port of Spain,Sri Lanka,Completed,West_Indies
+Ireland,West Indies,ODI,"Mar 23, 2007",Kingston,West Indies,Completed,West_Indies
+Australia,South Africa,ODI,"Mar 24, 2007",Basseterre,Australia,Completed,West_Indies
+Kenya,England,ODI,"Mar 24, 2007",Gros Islet,England,Completed,West_Indies
+Bermuda,Bangladesh,ODI,"Mar 25, 2007",Port of Spain,Bangladesh,Completed,West_Indies
+Australia,West Indies,ODI,"Mar 27, 2007",North Sound,Australia,Completed,West_Indies
+Sri Lanka,South Africa,ODI,"Mar 28, 2007",Providence,South Africa,Completed,West_Indies
+West Indies,New Zealand,ODI,"Mar 29, 2007",North Sound,New Zealand,Completed,West_Indies
+England,Ireland,ODI,"Mar 30, 2007",Providence,England,Completed,West_Indies
+Bangladesh,Australia,ODI,"Mar 31, 2007",North Sound,Australia,Completed,West_Indies
+Sri Lanka,West Indies,ODI,"Apr 01, 2007",Providence,Sri Lanka,Completed,West_Indies
+Bangladesh,New Zealand,ODI,"Apr 02, 2007",North Sound,New Zealand,Completed,West_Indies
+Ireland,South Africa,ODI,"Apr 03, 2007",Providence,South Africa,Completed,West_Indies
+Sri Lanka,England,ODI,"Apr 04, 2007",North Sound,Sri Lanka,Completed,West_Indies
+Bangladesh,South Africa,ODI,"Apr 07, 2007",Providence,Bangladesh,Completed,West_Indies
+England,Australia,ODI,"Apr 08, 2007",North Sound,Australia,Completed,West_Indies
+New Zealand,Ireland,ODI,"Apr 09, 2007",Providence,New Zealand,Completed,West_Indies
+South Africa,West Indies,ODI,"Apr 10, 2007",St George's,South Africa,Completed,West_Indies
+Bangladesh,England,ODI,"Apr 11, 2007",Bridgetown,England,Completed,West_Indies
+New Zealand,Sri Lanka,ODI,"Apr 12, 2007",St George's,Sri Lanka,Completed,West_Indies
+Ireland,Australia,ODI,"Apr 13, 2007",Bridgetown,Australia,Completed,West_Indies
+South Africa,New Zealand,ODI,"Apr 14, 2007",St George's,New Zealand,Completed,West_Indies
+Ireland,Bangladesh,ODI,"Apr 15, 2007",Bridgetown,Ireland,Completed,West_Indies
+Sri Lanka,Australia,ODI,"Apr 16, 2007",St George's,Australia,Completed,West_Indies
+England,South Africa,ODI,"Apr 17, 2007",Bridgetown,South Africa,Completed,West_Indies
+Ireland,Sri Lanka,ODI,"Apr 18, 2007",St George's,Sri Lanka,Completed,West_Indies
+West Indies,Bangladesh,ODI,"Apr 19, 2007",Bridgetown,West Indies,Completed,West_Indies
+Australia,New Zealand,ODI,"Apr 20, 2007",St George's,Australia,Completed,West_Indies
+West Indies,England,ODI,"Apr 21, 2007",Bridgetown,England,Completed,West_Indies
+Sri Lanka,New Zealand,ODI,"Apr 24, 2007",Kingston,Sri Lanka,Completed,West_Indies
+South Africa,Australia,ODI,"Apr 25, 2007",Gros Islet,Australia,Completed,West_Indies
+Australia,Sri Lanka,ODI,"Apr 28, 2007",Bridgetown,Australia,Completed,West_Indies
+India,Bangladesh,ODI,"Feb 19, 2011",Dhaka,India,Completed,Bangladesh
+Kenya,New Zealand,ODI,"Feb 20, 2011",Chennai,New Zealand,Completed,India
+Sri Lanka,Canada,ODI,"Feb 20, 2011",Hambantota,Sri Lanka,Completed,Sri Lanka
+Australia,Zimbabwe,ODI,"Feb 21, 2011",Motera,Australia,Completed,India
+Netherlands,England,ODI,"Feb 22, 2011",Nagpur,England,Completed,India
+Pakistan,Kenya,ODI,"Feb 23, 2011",Hambantota,Pakistan,Completed,Sri Lanka
+West Indies,South Africa,ODI,"Feb 24, 2011",Delhi,South Africa,Completed,India
+New Zealand,Australia,ODI,"Feb 25, 2011",Nagpur,Australia,Completed,India
+Bangladesh,Ireland,ODI,"Feb 25, 2011",Dhaka,Bangladesh,Completed,Bangladesh
+Pakistan,Sri Lanka,ODI,"Feb 26, 2011",Colombo (RPS),Pakistan,Completed,Sri Lanka
+India,England,ODI,"Feb 27, 2011",Bengaluru,TIE,Completed,India
+Zimbabwe,Canada,ODI,"Feb 28, 2011",Nagpur,Zimbabwe,Completed,India
+West Indies,Netherlands,ODI,"Feb 28, 2011",Delhi,West Indies,Completed,India
+Kenya,Sri Lanka,ODI,"Mar 01, 2011",Colombo (RPS),Sri Lanka,Completed,Sri Lanka
+England,Ireland,ODI,"Mar 02, 2011",Bengaluru,Ireland,Completed,India
+South Africa,Netherlands,ODI,"Mar 03, 2011",Mohali,South Africa,Completed,India
+Pakistan,Canada,ODI,"Mar 03, 2011",Colombo (RPS),Pakistan,Completed,Sri Lanka
+Zimbabwe,New Zealand,ODI,"Mar 04, 2011",Motera,New Zealand,Completed,India
+Bangladesh,West Indies,ODI,"Mar 04, 2011",Dhaka,West Indies,Completed,Bangladesh
+Sri Lanka,Australia,ODI,"Mar 05, 2011",Colombo (RPS),NR,Completed,Sri Lanka
+England,South Africa,ODI,"Mar 06, 2011",Chennai,England,Completed,India
+Ireland,India,ODI,"Mar 06, 2011",Bengaluru,India,Completed,India
+Kenya,Canada,ODI,"Mar 07, 2011",Delhi,Canada,Completed,India
+New Zealand,Pakistan,ODI,"Mar 08, 2011",Pallekele,New Zealand,Completed,Sri Lanka
+Netherlands,India,ODI,"Mar 09, 2011",Delhi,India,Completed,India
+Sri Lanka,Zimbabwe,ODI,"Mar 10, 2011",Pallekele,Sri Lanka,Completed,Sri Lanka
+West Indies,Ireland,ODI,"Mar 11, 2011",Mohali,West Indies,Completed,India
+England,Bangladesh,ODI,"Mar 11, 2011",Chittagong,Bangladesh,Completed,Bangladesh
+India,South Africa,ODI,"Mar 12, 2011",Nagpur,South Africa,Completed,India
+New Zealand,Canada,ODI,"Mar 13, 2011",Wankhede,New Zealand,Completed,India
+Australia,Kenya,ODI,"Mar 13, 2011",Bengaluru,Australia,Completed,India
+Netherlands,Bangladesh,ODI,"Mar 14, 2011",Chittagong,Bangladesh,Completed,Bangladesh
+Zimbabwe,Pakistan,ODI,"Mar 14, 2011",Pallekele,Pakistan,Completed,Sri Lanka
+South Africa,Ireland,ODI,"Mar 15, 2011",Kolkata,South Africa,Completed,India
+Canada,Australia,ODI,"Mar 16, 2011",Bengaluru,Australia,Completed,India
+England,West Indies,ODI,"Mar 17, 2011",Chennai,England,Completed,India
+Netherlands,Ireland,ODI,"Mar 18, 2011",Kolkata,Ireland,Completed,India
+Sri Lanka,New Zealand,ODI,"Mar 18, 2011",Wankhede,Sri Lanka,Completed,India
+South Africa,Bangladesh,ODI,"Mar 19, 2011",Dhaka,South Africa,Completed,Bangladesh
+Australia,Pakistan,ODI,"Mar 19, 2011",Colombo (RPS),Pakistan,Completed,Sri Lanka
+Zimbabwe,Kenya,ODI,"Mar 20, 2011",Kolkata,Zimbabwe,Completed,India
+India,West Indies,ODI,"Mar 20, 2011",Chennai,India,Completed,India
+West Indies,Pakistan,ODI,"Mar 23, 2011",Dhaka,Pakistan,Completed,Bangladesh
+Australia,India,ODI,"Mar 24, 2011",Motera,India,Completed,India
+New Zealand,South Africa,ODI,"Mar 25, 2011",Dhaka,New Zealand,Completed,Bangladesh
+England,Sri Lanka,ODI,"Mar 26, 2011",Colombo (RPS),Sri Lanka,Completed,Sri Lanka
+New Zealand,Sri Lanka,ODI,"Mar 29, 2011",Colombo (RPS),Sri Lanka,Completed,Sri Lanka
+India,Pakistan,ODI,"Mar 30, 2011",Mohali,India,Completed,India
+Sri Lanka,India,ODI,"Apr 02, 2011",Wankhede,India,Completed,India
+New Zealand,Sri Lanka,ODI,"Feb 14, 2015",Christchurch,New Zealand,Completed,New Zealand
+Australia,England,ODI,"Feb 14, 2015",Melbourne (MCG),Australia,Completed,Australia
+South Africa,Zimbabwe,ODI,"Feb 15, 2015",Hamilton,South Africa,Completed,New Zealand
+India,Pakistan,ODI,"Feb 15, 2015",Adelaide,India,Completed,Australia
+West Indies,Ireland,ODI,"Feb 16, 2015",Nelson,Ireland,Completed,New Zealand
+Scotland,New Zealand,ODI,"Feb 17, 2015",Dunedin,New Zealand,Completed,New Zealand
+Bangladesh,Afghanistan,ODI,"Feb 18, 2015",Canberra,Bangladesh,Completed,Australia
+United Arab Emirates,Zimbabwe,ODI,"Feb 19, 2015",Nelson,Zimbabwe,Completed,New Zealand
+England,New Zealand,ODI,"Feb 20, 2015",Wellington,New Zealand,Completed,New Zealand
+West Indies,Pakistan,ODI,"Feb 21, 2015",Christchurch,West Indies,Completed,New Zealand
+Australia,Bangladesh,ODI,"Feb 21, 2015",Brisbane,ABANDONED,Completed,Australia
+Afghanistan,Sri Lanka,ODI,"Feb 22, 2015",Dunedin,Sri Lanka,Completed,New Zealand
+India,South Africa,ODI,"Feb 22, 2015",Melbourne (MCG),India,Completed,Australia
+England,Scotland,ODI,"Feb 23, 2015",Christchurch,England,Completed,New Zealand
+West Indies,Zimbabwe,ODI,"Feb 24, 2015",Canberra,West Indies,Completed,Australia
+United Arab Emirates,Ireland,ODI,"Feb 25, 2015",Brisbane,Ireland,Completed,Australia
+Scotland,Afghanistan,ODI,"Feb 26, 2015",Dunedin,Afghanistan,Completed,New Zealand
+Sri Lanka,Bangladesh,ODI,"Feb 26, 2015",Melbourne (MCG),Sri Lanka,Completed,Australia
+South Africa,West Indies,ODI,"Feb 27, 2015",Sydney (SCG),South Africa,Completed,Australia
+Australia,New Zealand,ODI,"Feb 28, 2015",Auckland,New Zealand,Completed,New Zealand
+United Arab Emirates,India,ODI,"Feb 28, 2015",Perth,India,Completed,Australia
+England,Sri Lanka,ODI,"Mar 01, 2015",Wellington,Sri Lanka,Completed,New Zealand
+Pakistan,Zimbabwe,ODI,"Mar 01, 2015",Brisbane,Pakistan,Completed,Australia
+South Africa,Ireland,ODI,"Mar 03, 2015",Canberra,South Africa,Completed,Australia
+Pakistan,United Arab Emirates,ODI,"Mar 04, 2015",Napier,Pakistan,Completed,New Zealand
+Australia,Afghanistan,ODI,"Mar 04, 2015",Perth,Australia,Completed,Australia
+Scotland,Bangladesh,ODI,"Mar 05, 2015",Nelson,Bangladesh,Completed,New Zealand
+West Indies,India,ODI,"Mar 06, 2015",Perth,India,Completed,Australia
+Pakistan,South Africa,ODI,"Mar 07, 2015",Auckland,Pakistan,Completed,New Zealand
+Ireland,Zimbabwe,ODI,"Mar 07, 2015",Hobart,Ireland,Completed,Australia
+Afghanistan,New Zealand,ODI,"Mar 08, 2015",Napier,New Zealand,Completed,New Zealand
+Australia,Sri Lanka,ODI,"Mar 08, 2015",Sydney (SCG),Australia,Completed,Australia
+Bangladesh,England,ODI,"Mar 09, 2015",Adelaide,Bangladesh,Completed,Australia
+Ireland,India,ODI,"Mar 10, 2015",Hamilton,India,Completed,New Zealand
+Sri Lanka,Scotland,ODI,"Mar 11, 2015",Hobart,Sri Lanka,Completed,Australia
+South Africa,United Arab Emirates,ODI,"Mar 12, 2015",Wellington,South Africa,Completed,New Zealand
+Bangladesh,New Zealand,ODI,"Mar 13, 2015",Hamilton,New Zealand,Completed,Australia
+Afghanistan,England,ODI,"Mar 13, 2015",Sydney (SCG),England,Completed,New Zealand
+Zimbabwe,India,ODI,"Mar 14, 2015",Auckland,India,Completed,Australia
+Scotland,Australia,ODI,"Mar 14, 2015",Hobart,Australia,Completed,New Zealand
+United Arab Emirates,West Indies,ODI,"Mar 15, 2015",Napier,West Indies,Completed,Australia
+Ireland,Pakistan,ODI,"Mar 15, 2015",Adelaide,Pakistan,Completed,New Zealand
+Sri Lanka,South Africa,ODI,"Mar 18, 2015",Sydney (SCG),South Africa,Completed,Australia
+India,Bangladesh,ODI,"Mar 19, 2015",Melbourne (MCG),India,Completed,Australia
+Pakistan,Australia,ODI,"Mar 20, 2015",Adelaide,Australia,Completed,Australia
+New Zealand,West Indies,ODI,"Mar 21, 2015",Wellington,New Zealand,Completed,New Zealand
+South Africa,New Zealand,ODI,"Mar 24, 2015",Auckland,New Zealand,Completed,New Zealand
+Australia,India,ODI,"Mar 26, 2015",Sydney (SCG),Australia,Completed,Australia
+New Zealand,Australia,ODI,"Mar 29, 2015",Melbourne (MCG),Australia,Completed,Australia
+England,South Africa,ODI,"May 30, 2019",The Oval,England,Completed,England
+Pakistan,West Indies,ODI,"May 31, 2019",Nottingham,West Indies,Completed,England
+Sri Lanka,New Zealand,ODI,"Jun 01, 2019",Cardiff,New Zealand,Completed,England
+Afghanistan,Australia,ODI,"Jun 01, 2019",Bristol,Australia,Completed,England
+Bangladesh,South Africa,ODI,"Jun 02, 2019",The Oval,Bangladesh,Completed,England
+Pakistan,England,ODI,"Jun 03, 2019",Nottingham,Pakistan,Completed,England
+Sri Lanka,Afghanistan,ODI,"Jun 04, 2019",Cardiff,Sri Lanka,Completed,England
+South Africa,India,ODI,"Jun 05, 2019",Southampton,India,Completed,England
+Bangladesh,New Zealand,ODI,"Jun 05, 2019",The Oval,New Zealand,Completed,England
+Australia,West Indies,ODI,"Jun 06, 2019",Nottingham,Australia,Completed,England
+Pakistan,Sri Lanka,ODI,"Jun 07, 2019",Bristol,ABANDONED,Completed,England
+England,Bangladesh,ODI,"Jun 08, 2019",Cardiff,England,Completed,England
+Afghanistan,New Zealand,ODI,"Jun 08, 2019",Taunton,New Zealand,Completed,England
+India,Australia,ODI,"Jun 09, 2019",The Oval,India,Completed,England
+South Africa,West Indies,ODI,"Jun 10, 2019",Southampton,NR,Completed,England
+Bangladesh,Sri Lanka,ODI,"Jun 11, 2019",Bristol,ABANDONED,Completed,England
+Australia,Pakistan,ODI,"Jun 12, 2019",Taunton,Australia,Completed,England
+India,New Zealand,ODI,"Jun 13, 2019",Nottingham,ABANDONED,Completed,England
+West Indies,England,ODI,"Jun 14, 2019",Southampton,England,Completed,England
+Australia,Sri Lanka,ODI,"Jun 15, 2019",The Oval,Australia,Completed,England
+Afghanistan,South Africa,ODI,"Jun 15, 2019",Cardiff,South Africa,Completed,England
+India,Pakistan,ODI,"Jun 16, 2019",Manchester,India,Completed,England
+West Indies,Bangladesh,ODI,"Jun 17, 2019",Taunton,Bangladesh,Completed,England
+England,Afghanistan,ODI,"Jun 18, 2019",Manchester,England,Completed,England
+South Africa,New Zealand,ODI,"Jun 19, 2019",Birmingham,New Zealand,Completed,England
+Australia,Bangladesh,ODI,"Jun 20, 2019",Nottingham,Australia,Completed,England
+Sri Lanka,England,ODI,"Jun 21, 2019",Leeds,Sri Lanka,Completed,England
+India,Afghanistan,ODI,"Jun 22, 2019",Southampton,India,Completed,England
+New Zealand,West Indies,ODI,"Jun 22, 2019",Manchester,New Zealand,Completed,England
+Pakistan,South Africa,ODI,"Jun 23, 2019",Lord's,Pakistan,Completed,England
+Bangladesh,Afghanistan,ODI,"Jun 24, 2019",Southampton,Bangladesh,Completed,England
+Australia,England,ODI,"Jun 25, 2019",Lord's,Australia,Completed,England
+New Zealand,Pakistan,ODI,"Jun 26, 2019",Birmingham,Pakistan,Completed,England
+India,West Indies,ODI,"Jun 27, 2019",Manchester,India,Completed,England
+Sri Lanka,South Africa,ODI,"Jun 28, 2019",Chester-le-Street,South Africa,Completed,England
+Afghanistan,Pakistan,ODI,"Jun 29, 2019",Leeds,Pakistan,Completed,England
+Australia,New Zealand,ODI,"Jun 29, 2019",Lord's,Australia,Completed,England
+England,India,ODI,"Jun 30, 2019",Birmingham,England,Completed,England
+Sri Lanka,West Indies,ODI,"Jul 01, 2019",Chester-le-Street,Sri Lanka,Completed,England
+India,Bangladesh,ODI,"Jul 02, 2019",Birmingham,India,Completed,England
+England,New Zealand,ODI,"Jul 03, 2019",Chester-le-Street,England,Completed,England
+West Indies,Afghanistan,ODI,"Jul 04, 2019",Leeds,West Indies,Completed,England
+Pakistan,Bangladesh,ODI,"Jul 05, 2019",Lord's,Pakistan,Completed,England
+Sri Lanka,India,ODI,"Jul 06, 2019",Leeds,India,Completed,England
+South Africa,Australia,ODI,"Jul 06, 2019",Manchester,South Africa,Completed,England
+New Zealand,India,ODI,"Jul 09, 2019",Manchester,New Zealand,Completed,England
+Australia,England,ODI,"Jul 11, 2019",Birmingham,England,Completed,England
+New Zealand,England,ODI,"Jul 14, 2019",Lord's,England,Completed,England
+England,New Zealand,ODI,"Oct 05, 2023",Ahmedabad,New Zealand,Completed,India
+Pakistan,Netherlands,ODI,"Oct 06, 2023",Hyderabad (Deccan),Pakistan,Completed,India
+Afghanistan,Bangladesh,ODI,"Oct 07, 2023",Dharamsala,Bangladesh,Completed,India
+South Africa,Sri Lanka,ODI,"Oct 07, 2023",Delhi,South Africa,Completed,India
+Australia,India,ODI,"Oct 08, 2023",Chennai,India,Completed,India
+New Zealand,Netherlands,ODI,"Oct 09, 2023",Hyderabad (Deccan),New Zealand,Completed,India
+England,Bangladesh,ODI,"Oct 10, 2023",Dharamsala,England,Completed,India
+Sri Lanka,Pakistan,ODI,"Oct 10, 2023",Hyderabad (Deccan),Pakistan,Completed,India
+Afghanistan,India,ODI,"Oct 11, 2023",Delhi,India,Completed,India
+South Africa,Australia,ODI,"Oct 12, 2023",Lucknow,South Africa,Completed,India
+Bangladesh,New Zealand,ODI,"Oct 13, 2023",Chennai,New Zealand,Completed,India
+Pakistan,India,ODI,"Oct 14, 2023",Ahmedabad,India,Completed,India
+Afghanistan,England,ODI,"Oct 15, 2023",Delhi,Afghanistan,Completed,India
+Sri Lanka,Australia,ODI,"Oct 16, 2023",Lucknow,Australia,Completed,India
+Netherlands,South Africa,ODI,"Oct 17, 2023",Dharamsala,Netherlands,Completed,India
+New Zealand,Afghanistan,ODI,"Oct 18, 2023",Chennai,New Zealand,Completed,India
+Bangladesh,India,ODI,"Oct 19, 2023",Pune,India,Completed,India
+Australia,Pakistan,ODI,"Oct 20, 2023",Bengaluru,Australia,Completed,India
+Netherlands,Sri Lanka,ODI,"Oct 21, 2023",Lucknow,Sri Lanka,Completed,India
+South Africa,England,ODI,"Oct 21, 2023",Wankhede,South Africa,Completed,India
+New Zealand,India,ODI,"Oct 22, 2023",Dharamsala,India,Completed,India
+Pakistan,Afghanistan,ODI,"Oct 23, 2023",Chennai,Afghanistan,Completed,India
+South Africa,Bangladesh,ODI,"Oct 24, 2023",Wankhede,South Africa,Completed,India
+Australia,Netherlands,ODI,"Oct 25, 2023",Delhi,Australia,Completed,India
+England,Sri Lanka,ODI,"Oct 26, 2023",Bengaluru,Sri Lanka,Completed,India
+Pakistan,South Africa,ODI,"Oct 27, 2023",Chennai,South Africa,Completed,India
+Australia,New Zealand,ODI,"Oct 28, 2023",Dharamsala,Australia,Completed,India
+Netherlands,Bangladesh,ODI,"Oct 28, 2023",Kolkata,Netherlands,Completed,India
+India,England,ODI,"Oct 29, 2023",Lucknow,India,Completed,India
+Sri Lanka,Afghanistan,ODI,"Oct 30, 2023",Pune,Afghanistan,Completed,India
+Bangladesh,Pakistan,ODI,"Oct 31, 2023",Kolkata,Pakistan,Completed,India
+South Africa,New Zealand,ODI,"Nov 01, 2023",Pune,South Africa,Completed,India
+India,Sri Lanka,ODI,"Nov 02, 2023",Wankhede,India,Completed,India
+Netherlands,Afghanistan,ODI,"Nov 03, 2023",Lucknow,Afghanistan,Completed,India
+New Zealand,Pakistan,ODI,"Nov 04, 2023",Bengaluru,Pakistan,Completed,India
+Australia,England,ODI,"Nov 04, 2023",Ahmedabad,Australia,Completed,India
+India,South Africa,ODI,"Nov 05, 2023",Kolkata,India,Completed,India
+Sri Lanka,Bangladesh,ODI,"Nov 06, 2023",Delhi,Bangladesh,Completed,India
+Afghanistan,Australia,ODI,"Nov 07, 2023",Wankhede,Australia,Completed,India
+England,Netherlands,ODI,"Nov 08, 2023",Pune,England,Completed,India
+Sri Lanka,New Zealand,ODI,"Nov 09, 2023",Bengaluru,New Zealand,Completed,India
+Afghanistan,South Africa,ODI,"Nov 10, 2023",Ahmedabad,South Africa,Completed,India
