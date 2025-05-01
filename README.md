@@ -1,5 +1,5 @@
 # ICC_World_Cup_2023_Prediction🏏
-## Course Project 3 of Data Mining Course
+
 
 * This Project aims to predict:
   1. Predicting the batsman who will score most runs/ hit most sixes/ make most centuries in the tournament.
