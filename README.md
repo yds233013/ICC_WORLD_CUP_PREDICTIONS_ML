@@ -1,4 +1,4 @@
-# ICC_World_Cup_2023_Prediction🏏
+# ICC_World_Cup_Prediction🏏
 
 
 * This Project aims to predict:
